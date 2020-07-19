@@ -4,4 +4,36 @@
 */
 body{
     background: #F5BEBE;
+    margin-left: 30px;
+    margin-right: 150px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+img{
+    margin-bottom: 20px;
+    width: 350px;
+}
+
+.imgPadrao{
+    margin-bottom: 5px;
+}
+
+.contato{
+    width: 50px;
+    margin: 0px;
+}
+h1{
+    color: red;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
 }
